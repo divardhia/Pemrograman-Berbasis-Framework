@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Login from './component/Login';
 import HelloComponent from './component/HelloComponent';
 import reportWebVitals from './reportWebVitals';
 
@@ -59,6 +60,6 @@ class Test extends React.Component {
     }
 }
 
-ReactDOM.render(<HelloComponent />, document.getElementById('root'));
+ReactDOM.render(<Login />, document.getElementById('root'));
 
 reportWebVitals();
