@@ -1,0 +1,20 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 1941720057,
+      "nama": "Diva Ardhia Rahmania",
+      "alamat": "Mojokerto",
+      "hp": "082213589072",
+      "angkatan": 2019,
+      "status": "aktif"
+    },
+    {
+      "NIM": "213456789",
+      "nama": "Mahasiswa A",
+      "alamat": "Malang",
+      "hp": "08215649897",
+      "angkatan": "2021",
+      "status": "cuti"
+    }
+  ]
+}
