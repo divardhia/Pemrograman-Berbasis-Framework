@@ -15,6 +15,15 @@
       "hp": "08215649897",
       "angkatan": "2021",
       "status": "cuti"
+    },
+    {
+      "NIM": "1941720188",
+      "nama": "mahasiswa b",
+      "alamat": "malang",
+      "hp": "081222111222",
+      "angkatan": "2019",
+      "status": "cuti",
+      "id": 1648035732324
     }
   ]
 }

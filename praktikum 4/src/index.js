@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 
 
 
-// ReactDOM.render(<BlogPost />, document.getElementById('content'));
+//ReactDOM.render(<BlogPost />, document.getElementById('content'));
 ReactDOM.render(<MahasiswaAPI />, document.getElementById('content'));
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
