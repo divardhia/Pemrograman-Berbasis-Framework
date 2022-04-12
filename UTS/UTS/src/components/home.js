@@ -5,9 +5,7 @@ class Home extends Component {
         return (
             <div>
                 <h2>Home</h2>
-                <p>Konsep bisnis Kami menawarkan barang elektronik, fashion, dan furniture 
-                    dengan kualitas dan gambar yang dapat dilihat pada menu category dengan melakukan login terlebih dahulu. 
-                    untuk menghubungi kami dapat mengunjungi menu contact</p>
+                <p>Selamat Datang di toko kami. Kami menyediakan produk-produk lemari es yang berkualitas</p>
             </div>
         );
     }
