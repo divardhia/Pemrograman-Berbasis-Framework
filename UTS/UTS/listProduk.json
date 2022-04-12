@@ -1,0 +1,74 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "nama": "kulkas LG",
+      "harga": 3649000,
+      "stok": 28,
+      "gambar": "./images/kulkas1.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "kulkas Samsung",
+      "harga": 6999000,
+      "stok": 50,
+      "gambar": "./images/kulkas2.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "kulkas Aqua",
+      "harga": 2719000,
+      "stok": 5,
+      "gambar": "./images/kulkas3.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "kulkas Sharp",
+      "harga": 2505000,
+      "stok": 1,
+      "gambar": "./images/kulkas4.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "kulkas Changhong",
+      "harga": 1945000,
+      "stok": 51,
+      "gambar": "./images/kulkas5.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "kulkas Polytron",
+      "harga": 3149000,
+      "stok": 97,
+      "gambar": "./images/kulkas6.jpg"
+    },
+    {
+      "id": 7,
+      "nama": "kulkas Hitachi",
+      "harga": 6649900,
+      "stok": 5,
+      "gambar": "./images/kulkas7.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "kulkas Beko",
+      "harga": 7800000,
+      "stok": 97,
+      "gambar": "./images/kulkas8.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "kulkas Side by side",
+      "harga": 6810000,
+      "stok": 7,
+      "gambar": "./images/kulkas9.jpg"
+    },
+    {
+      "id": 10,
+      "nama": "kulkas Sanyo",
+      "harga": 1660000,
+      "stok": 8633,
+      "gambar": "./images/kulkas10.jpg"
+    }
+  ]
+}

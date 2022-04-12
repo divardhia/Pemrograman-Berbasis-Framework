@@ -1,0 +1,28 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "idProduk": 1,
+      "nama": "kulkas LG",
+      "harga": 3649000,
+      "qty": 3,
+      "subTotal": 10947000
+    },
+    {
+      "id": 2,
+      "idProduk": 2,
+      "nama": "kulkas Samsung",
+      "harga": 6999000,
+      "qty": 1,
+      "subTotal": 6999000
+    },
+    {
+      "id": 3,
+      "idProduk": 3,
+      "nama": "kulkas Aqua",
+      "harga": 2719000,
+      "qty": 1,
+      "subTotal": 2719000
+    }
+  ]
+}
