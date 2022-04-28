@@ -25,7 +25,7 @@
       "id": 4,
       "nama": "kulkas Sharp",
       "harga": 2505000,
-      "stok": 1,
+      "stok": 0,
       "gambar": "./images/kulkas4.jpg"
     },
     {
@@ -46,7 +46,7 @@
       "id": 7,
       "nama": "kulkas Hitachi",
       "harga": 6649900,
-      "stok": 5,
+      "stok": 4,
       "gambar": "./images/kulkas7.jpg"
     },
     {

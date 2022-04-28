@@ -23,6 +23,22 @@
       "harga": 2719000,
       "qty": 1,
       "subTotal": 2719000
+    },
+    {
+      "id": 4,
+      "idProduk": 4,
+      "nama": "kulkas Sharp",
+      "harga": 2505000,
+      "qty": 1,
+      "subTotal": 2505000
+    },
+    {
+      "id": 5,
+      "idProduk": 7,
+      "nama": "kulkas Hitachi",
+      "harga": 6649900,
+      "qty": 1,
+      "subTotal": 6649900
     }
   ]
 }
