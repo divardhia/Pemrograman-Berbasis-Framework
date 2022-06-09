@@ -1,0 +1,14 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './index.css';
+import BlogPost from './container/BlogPost/BlogPost';
+import reportWebVitals from './reportWebVitals';
+
+// Praktikum
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <BlogPost />
+);
+
+reportWebVitals();
